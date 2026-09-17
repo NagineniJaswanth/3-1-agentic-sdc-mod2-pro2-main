@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chatbot Assistant</string>
+    <string name="message_hint">Type your message...</string>
+    <string name="send_message">Send message</string>
+</resources>
